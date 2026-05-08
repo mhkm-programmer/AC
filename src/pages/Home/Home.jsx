@@ -2,7 +2,6 @@ import CustomerReviews from "./CustomerReviews";
 import HeroSlider from "./heroBanner.jsx/HeroSlider";
 import OurClient from "./OurClient";
 import PageTitle from "../reusable/PageTitle";
-
 import SubscreibeContact from "../contact/SubscreibeContact";
 import WhyChoose from "./WhyChoose";
 import Products_ACServices from "./Products_ACServices";
@@ -14,7 +13,8 @@ const Home = () => {
     <PageTitle title="Curtains Furniture | Home"/>
       <HeroSlider />
       <Products_ACServices />
-      <Products_ScrapBuying />
+
+
         <WhyChoose/>
       <OurClient/>
       <CustomerReviews/>
