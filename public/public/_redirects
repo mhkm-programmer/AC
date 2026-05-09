@@ -1,6 +1,1 @@
-project/
- ├── public/
- │    ├── _redirects
- │
- ├── src/
- ├── package.json
+/*    /index.html   200
