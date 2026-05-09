@@ -4,12 +4,13 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const installationGallery = [
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
+  "https://i.ibb.co/ds2vvrtc/ac-installation-qatar-1.jpg",
+  "https://i.ibb.co/cKHXLJ82/ac-installation-qatar-1.webp",
+  "https://i.ibb.co/4Z5Hn9n2/ac-installation-qatar-1.jpg",
+  "https://i.ibb.co/4wX01dCY/ac-installation-qatar-2.webp",
+  "https://i.ibb.co/y95tS93/ac-installation-qatar-2.jpg",
+  "https://i.ibb.co/NgzFMRKT/ac-installation-qatar-3.jpg",
+
 ];
 
 const ACInstallation = () => {
@@ -20,7 +21,7 @@ const ACInstallation = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/675L3TDj/image.png"
         title="AC Installation Services"
         subTitle="Efficient Cooling Starts with Perfect Installation"
       />
@@ -75,7 +76,7 @@ const ACInstallation = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1581093458791-9f3c3900df6b"
+              src="https://i.ibb.co/S71P6D5G/image.png"
               alt="AC Installation"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

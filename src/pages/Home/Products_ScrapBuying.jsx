@@ -12,40 +12,40 @@ import {
 } from "react-icons/fa";
 
 const services = [
-  {
+{
     id: 1,
-    name: "Used & Non-Working AC Units",
-    image: "/images/scrap-ac.jpg",
+    name: "Used AC Units",
+    image: "https://i.ibb.co/j9FSDBN2/image.png",
     path: "/services/used-non-working-ac-units",
   },
   {
     id: 2,
     name: "Compressors",
-    image: "/images/scrap-compressor.jpg",
+    image: "https://i.ibb.co/5tT2SR2/image.png",
     path: "/services/compressors-scrap",
   },
   {
     id: 3,
-    name: "Copper Pipes",
-    image: "/images/scrap-copper.jpg",
+    name: "Copper Scrap",
+    image: "https://i.ibb.co/WWCw8F5Z/image.png",
     path: "/scrap-buying/copper",
   },
   {
     id: 4,
     name: "Aluminum Scrap",
-    image: "/images/scrap-aluminum.jpg",
+    image: "https://i.ibb.co/HfW4hHxh/image.png",
     path: "/scrap-buying/aluminum",
   },
   {
     id: 5,
     name: "Electric Motors",
-    image: "/images/scrap-motor.jpg",
+    image: "https://i.ibb.co/zWdDjzPY/image.png",
     path: "/scrap-buying/motor",
   },
   {
     id: 6,
     name: "Battery Scrap",
-    image: "/images/scrap-battery.jpg",
+    image: "https://i.ibb.co/YBjLcWJ0/image.png",
     path: "/scrap-buying/battery",
   },
 ];
@@ -181,32 +181,7 @@ const Products_ScrapBuying = () => {
 
       </div>
 
-      {/* CTA */}
-      <div className="mt-16 px-4">
 
-        <div className="max-w-5xl mx-auto bg-gradient-to-r from-blue-700 to-cyan-600 rounded-[35px] p-10 md:p-16 text-center text-white shadow-2xl">
-
-          <h2 className="text-3xl md:text-5xl font-bold mb-5">
-            Sell Your Scrap Today
-          </h2>
-
-          <p className="text-lg text-blue-100 max-w-2xl mx-auto mb-8">
-            Send your scrap photos on WhatsApp and get an instant quote with fast pickup service.
-          </p>
-
-          <a
-            href="https://wa.me/97450791874"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 bg-white text-blue-700 hover:bg-gray-100 px-8 py-4 rounded-2xl font-bold text-lg transition"
-          >
-            <FaWhatsapp />
-            Get Instant Quote
-          </a>
-
-        </div>
-
-      </div>
 
     </div>
   );

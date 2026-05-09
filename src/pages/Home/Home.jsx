@@ -13,6 +13,7 @@ const Home = () => {
     <PageTitle title="Curtains Furniture | Home"/>
       <HeroSlider />
       <Products_ACServices />
+      <Products_ScrapBuying />
         <WhyChoose/>
       <OurClient/>
       <CustomerReviews/>

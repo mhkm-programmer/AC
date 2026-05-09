@@ -5,12 +5,12 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const removalGallery = [
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/rfNh1C5z/ac-removeal-installation-1.jpg",
+  "https://i.ibb.co/Kz81L5ZF/ac-removeal-installation-2.jpg",
+  "https://i.ibb.co/5hrJ7p0g/ac-removeal-installation-3.jpg",
+  "https://i.ibb.co/1ft3yKb8/ac-removeal-installation-4.jpg",
+  "https://i.ibb.co/hRDwmbXZ/ac-removeal-installation-5.jpg",
+  "https://i.ibb.co/Q3xHQ0zb/image.png"
 ];
 
 const ACRemovalReinstall = () => {
@@ -22,7 +22,7 @@ const ACRemovalReinstall = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/vx4SQfBT/image.png"
         title="AC Removal & Reinstallation"
         subTitle="Safe Dismantling & Expert Reinstallation"
       />
@@ -77,7 +77,7 @@ const ACRemovalReinstall = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1581093458791-9f3c3900df6b"
+              src="https://i.ibb.co/wZpvB73X/image.png"
               alt="AC Removal Reinstall"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

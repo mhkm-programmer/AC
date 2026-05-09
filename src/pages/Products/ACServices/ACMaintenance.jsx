@@ -5,13 +5,14 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const maintenanceGallery = [
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
+  "https://i.ibb.co/vvkpTwcp/ac-maintenance-1.jpg",
+  "https://i.ibb.co/Df06mHcw/ac-maintenance-2.jpg",
+  "https://i.ibb.co/dw15V39R/ac-maintenance-3.jpg",
+  "https://i.ibb.co/84M5sHfP/ac-maintenance-4.jpg",
+  "https://i.ibb.co/0VBnr92W/ac-maintenance-5.jpg",
+  "https://i.ibb.co/wh9rv9wg/ac-maintenance-6.jpg"
 ];
+
 
 const ACMaintenance = () => {
   return (
@@ -22,7 +23,7 @@ const ACMaintenance = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/jcVq2my/image.png"
         title="AC Maintenance Services"
         subTitle="Keep Your AC Running Efficiently All Year"
       />
@@ -76,7 +77,7 @@ const ACMaintenance = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1581578731548-c64695cc6952"
+              src="https://i.ibb.co/qYvc2DSX/ac-maintenance-7.jpg"
               alt="AC Maintenance"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

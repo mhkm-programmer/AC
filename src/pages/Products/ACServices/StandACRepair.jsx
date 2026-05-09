@@ -5,13 +5,14 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const standACGallery = [
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/sv0Cm8H8/floor-standing-ac-maintenance-service.jpg",
+  "https://i.ibb.co/gMQWVj2q/standac-repair-1.jpg",
+  "https://i.ibb.co/v44ssvMD/AC-Installation-3.jpg",
+  "https://i.ibb.co/VR1fccZ/standac-repair-3.jpg",
+  "https://i.ibb.co/0R5433nb/standac-repair-4.jpg",
+  "https://i.ibb.co/1fHThHrd/standac-repair-5.jpg"
 ];
+
 
 const StandACRepair = () => {
   return (
@@ -22,7 +23,7 @@ const StandACRepair = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/LD6PP3sq/image.png"
         title="Stand AC Repair Services"
         subTitle="Powerful Cooling. Professional Repair Solutions"
       />
@@ -77,7 +78,7 @@ const StandACRepair = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/Ld5DqLfL/image.png"
               alt="Stand AC Repair"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

@@ -4,12 +4,15 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const acGallery = [
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/z1xkdxz/compressjpeg-online-image-1-500x500.webp",
+
+  "https://i.ibb.co/BVXzyVwp/images-3.jpg",
+  "https://i.ibb.co/TD5y04HF/close-up-of-hands-repairing-a-dirty-air-conditioner-unit-with-a-screwdriver-focusing-on-cleaning-and.jpg",
+  "https://i.ibb.co/wNLDzxrr/images-2.jpg",
+  "https://i.ibb.co/SDCD2ssQ/images-1.jpg",
+  "https://i.ibb.co/NdtB0dBK/premium-photo-1682126009570-3fe2399162f7.avif",
+  "https://i.ibb.co/RTvMc2HQ/premium-photo-1682126012378-859ca7a9f4cf.avif",
+  "https://i.ibb.co/Csz4pgvr/images.jpg"
 ];
 
 const ACRepair = () => {
@@ -20,7 +23,7 @@ const ACRepair = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/ym9jxmy8/image.png"
         title="AC Repair & Maintenance"
         subTitle="Fast. Reliable. Professional Cooling Solutions"
       />

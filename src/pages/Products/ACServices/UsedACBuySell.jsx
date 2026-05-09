@@ -5,12 +5,16 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const usedACGallery = [
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/nN8w0BQv/used-ac-buy-sell-1.jpg",
+  "https://i.ibb.co/HLsddD7d/used-ac-buy-sell-2.jpg",
+  "https://i.ibb.co/cKszxdcn/used-ac-buy-sell-3.jpg",
+  "https://i.ibb.co/qLBwT1RX/used-ac-buy-sell-4.jpg",
+  "https://i.ibb.co/cct15HSF/used-ac-buy-sell-5.jpg",
+  "https://i.ibb.co/zVw5sBzQ/used-ac-buy-sell-6.jpg",
+  "https://i.ibb.co/mkW236Q/used-ac-buy-sell-7.jpg",
+  "https://i.ibb.co/bgSPsrK1/used-ac-buy-sell-8.jpg",
+  "https://i.ibb.co/6Rwv5TTC/used-ac-buy-sell-9.jpg",
+  "https://i.ibb.co/cSBS9jRK/used-ac-buy-sell-10.jpg"
 ];
 
 const UsedACBuySell = () => {
@@ -22,7 +26,7 @@ const UsedACBuySell = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/WpdPXyCC/used-ac-buy-sell-12.jpg"
         title="Used AC Buy & Sell"
         subTitle="Affordable Cooling Solutions & Easy Selling"
       />

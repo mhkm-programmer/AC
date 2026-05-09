@@ -5,12 +5,12 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const gasGallery = [
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/sdvb5znz/AC-Installation-1.jpg",
+  "https://i.ibb.co/Qjnb1JDC/AC-Installation-2.jpg",
+  "https://i.ibb.co/v44ssvMD/AC-Installation-3.jpg",
+  "https://i.ibb.co/jPVw11TH/AC-Installation-4.jpg",
+  "https://i.ibb.co/4g5kNM9k/image.png",
+  "https://i.ibb.co/XrxdyC93/image.png",
 ];
 
 const ACGasInstallation = () => {
@@ -22,7 +22,7 @@ const ACGasInstallation = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/4nndL6zM/image.png"
         title="AC Gas Filling & Installation"
         subTitle="Restore Cooling Power with Expert Gas Charging"
       />
@@ -76,7 +76,7 @@ const ACGasInstallation = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1621905251918-48416bd8575a"
+              src="https://i.ibb.co/BK4hxxny/image.png"
               alt="AC Gas Filling"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />
