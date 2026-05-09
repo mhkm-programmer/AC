@@ -1,0 +1,6 @@
+project/
+ ├── public/
+ │    ├── _redirects
+ │
+ ├── src/
+ ├── package.json
