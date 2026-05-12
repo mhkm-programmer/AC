@@ -5,12 +5,17 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const compressorsGallery = [
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+ "https://i.ibb.co/q32bJsJF/Compressor-Scrap-1.jpg",
+ "https://i.ibb.co/tTvRmTcW/Compressor-Scrap-2.jpg",
+ "https://i.ibb.co/HppZNS8t/Compressor-Scrap-3.jpg",
+ "https://i.ibb.co/m56Z4FSW/Compressor-Scrap-1.webp",
+ "https://i.ibb.co/j9Tj0r8Y/Compressor-Scrap-4.jpg",
+ "https://i.ibb.co/84jxg5kn/Compressor-Scrap-5.jpg",
+ "https://i.ibb.co/rKqH4Knw/Compressor-Scrap-6.jpg",
+ "https://i.ibb.co/gZVvT15h/Compressor-Scrap-7.jpg",
+ "https://i.ibb.co/cc5kR6vj/Compressor-Scrap-8.jpg",
+ "https://i.ibb.co/RTN1W4XQ/Compressor-Scrap-9.jpg",
+ "https://i.ibb.co/Q7q2jMvf/Compressor-Scrap-10.jpg"
 ];
 
 const Compressors = () => {
@@ -22,7 +27,7 @@ const Compressors = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/tTvRmTcW/Compressor-Scrap-2.jpg"
         title="Compressor Scrap"
         subTitle="Sell Your Old Compressors for Instant Cash"
       />
@@ -75,7 +80,7 @@ const Compressors = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/HppZNS8t/Compressor-Scrap-3.jpg"
               alt="Compressor Scrap"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

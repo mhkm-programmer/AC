@@ -5,12 +5,20 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const brassGallery = [
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+ "https://i.ibb.co/Hfcp89LQ/Brass-Scrap-Buying-1.jpg",
+ "https://i.ibb.co/FkBH5RNv/Brass-Scrap-Buying-2.jpg",
+ "https://i.ibb.co/SXNTM2LZ/Brass-Scrap-Buying-3.jpg",
+ "https://i.ibb.co/xS4QNWZX/Brass-Scrap-Buying-4.jpg",
+ "https://i.ibb.co/NdT86RZt/Brass-Scrap-Buying-1.webp",
+ "https://i.ibb.co/Z4bnCTR/Brass-Scrap-Buying-2.webp",
+"https://i.ibb.co/XxtXPqCc/Brass-Scrap-Buying-5.jpg",
+"https://i.ibb.co/9XnMzHF/Brass-Scrap-Buying-6.jpg",
+"https://i.ibb.co/0jtp8XS0/Brass-Scrap-Buying-1.png",
+"https://i.ibb.co/spwG77ks/Brass-Scrap-Buying-3.webp",
+"https://i.ibb.co/VY37jGB7/Brass-Scrap-Buying-7.jpg",
+"https://i.ibb.co/fYdB7WcM/Brass-Scrap-Buying-8.jpg",
+"https://i.ibb.co/9ktfnnxs/Brass-Scrap-Buying-9.jpg",
+"https://i.ibb.co/c5C71zK/Brass-Scrap-Buying-10.jpg"
 ];
 
 const BrassScrap = () => {
@@ -22,7 +30,7 @@ const BrassScrap = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/Hfcp89LQ/Brass-Scrap-Buying-1.jpg"
         title="Brass Scrap Buying"
         subTitle="Turn Your Brass Scrap into Instant Cash"
       />
@@ -75,7 +83,7 @@ const BrassScrap = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/FkBH5RNv/Brass-Scrap-Buying-2.jpg"
               alt="Brass Scrap"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

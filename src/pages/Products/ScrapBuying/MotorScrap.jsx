@@ -5,12 +5,15 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const motorScrapGallery = [
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/YFSTLK4k/Motor-Scrap-Buying-2.avif",
+  "https://i.ibb.co/4qhjcpZ/Motor-Scrap-Buying-1.jpg",
+  "https://i.ibb.co/99Qzmcy9/Motor-Scrap-Buying-2.jpg",
+  "https://i.ibb.co/HLFVtT7t/Motor-Scrap-Buying-3.jpg",
+  "https://i.ibb.co/Vc7nr7xL/Motor-Scrap-Buying-4.jpg",
+  "https://i.ibb.co/VpxSwhcK/Motor-Scrap-Buying-1.webp",
+  "https://i.ibb.co/gF7vkGMZ/Motor-Scrap-Buying-3.avif",
+  "https://i.ibb.co/0y76Gq0N/Motor-Scrap-Buying-2.webp",
+  "https://i.ibb.co/BKqM6fR8/Motor-Scrap-Buying-5.jpg"
 ];
 
 const MotorScrap = () => {
@@ -22,7 +25,7 @@ const MotorScrap = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/qLWzN1xC/Motor-Scrap-Buying-6.jpg"
         title="Motor Scrap Buying"
         subTitle="Get Instant Quotes for Your Scrap Motors"
       />
@@ -76,7 +79,7 @@ const MotorScrap = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/d01NzKT1/Motor-Scrap-Buying-1.avif"
               alt="Motor Scrap"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

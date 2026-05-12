@@ -5,12 +5,14 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const copperGallery = [
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+ "https://i.ibb.co/bMr8cyn1/Copper-Scrap-Buying-2.jpg",
+ "https://i.ibb.co/gZNFZDNd/Copper-Scrap-Buying-3.jpg",
+ "https://i.ibb.co/84nPkCHg/Copper-Scrap-Buying-1.webp",
+ "https://i.ibb.co/LzKJ9TD9/Copper-Scrap-Buying-4.jpg",
+ "https://i.ibb.co/gbFMWqKd/Copper-Scrap-Buying-2.webp",
+ "https://i.ibb.co/9kdLR97G/Copper-Scrap-Buying-2.png",
+ "https://i.ibb.co/Z1NDtHsY/Copper-Scrap-Buying-5.jpg",
+ "https://i.ibb.co/4nQrMwxV/Copper-Scrap-Buying-6.jpg",
 ];
 
 const CopperScrap = () => {
@@ -22,7 +24,7 @@ const CopperScrap = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/27PXC1xZ/Copper-Scrap-Buying-1.jpg"
         title="Copper Scrap Buying"
         subTitle="Sell Your Copper Scrap for Instant Cash"
       />
@@ -76,7 +78,7 @@ const CopperScrap = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/jPNkgZ14/Copper-Scrap-Buying-1.png"
               alt="Copper Scrap"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

@@ -5,12 +5,15 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const metalScrapGallery = [
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/3m9c3z6Z/Electrical-Metal-Scrap-1.jpg",
+  "https://i.ibb.co/J8HDcz9/Electrical-Metal-Scrap-1.avif",
+  "https://i.ibb.co/HDDTDkvY/Electrical-Metal-Scrap-2.jpg",
+  "https://i.ibb.co/PsvyhTRG/Electrical-Metal-Scrap-3.jpg",
+  "https://i.ibb.co/W4MbZQKd/Electrical-Metal-Scrap-4.jpg",
+  "https://i.ibb.co/xSbG2Xwc/Electrical-Metal-Scrap-1.webp",
+  "https://i.ibb.co/rfq6NxMS/Electrical-Metal-Scrap-5.jpg",
+  "https://i.ibb.co/fz8f3NjH/Electrical-Metal-Scrap-6.jpg",
+  "https://i.ibb.co/RTfB9vVL/Electrical-Metal-Scrap-2.webp"
 ];
 
 const ElectricalMetalScrap = () => {
@@ -22,7 +25,7 @@ const ElectricalMetalScrap = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/Gm7YfXq/Electrical-Metal-Scrap-7.jpg"
         title="Electrical Metal Scrap"
         subTitle="Turn Your Old Electrical Metals Into Cash"
       />
@@ -76,7 +79,7 @@ const ElectricalMetalScrap = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/Z0mLMLJ/Electrical-Metal-Scrap-3.webp"
               alt="Electrical Metal Scrap"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

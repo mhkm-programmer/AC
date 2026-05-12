@@ -5,12 +5,16 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const scrapACGallery = [
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/PsLJqkT8/Sell-Your-Non-Working-AC-2.jpg",
+  "https://i.ibb.co/SDWQ2XZX/Sell-Your-Non-Working-AC-1.jpg",
+  "https://i.ibb.co/d4qP6H3L/Sell-Your-Non-Working-AC-3.jpg",
+  "https://i.ibb.co/rRGRjSFx/Sell-Your-Non-Working-AC-4.jpg",
+  "https://i.ibb.co/Xr6PP7Ph/Sell-Your-Non-Working-AC-5.jpg",
+  "https://i.ibb.co/3m1gDK6x/Sell-Your-Non-Working-AC-6.jpg",
+  "https://i.ibb.co/KpgJtqd3/Sell-Your-Non-Working-AC-7.jpg",
+  "https://i.ibb.co/0R543NCg/Sell-Your-Non-Working-AC-8.jpg",
+  "https://i.ibb.co/23QhdyMD/Sell-Your-Non-Working-AC-9.jpg",
+  "https://i.ibb.co/b5NsGJxx/Sell-Your-Non-Working-AC-10.jpg"
 ];
 
 const UsedNonWorkingACUnits = () => {
@@ -22,7 +26,7 @@ const UsedNonWorkingACUnits = () => {
 
       {/* Hero */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/1tbFjt0L/Sell-Your-Non-Working-AC-1.jpg"
         title="Sell Your Non-Working AC"
         subTitle="Turn Your Old AC Into Instant Cash"
       />
@@ -76,7 +80,7 @@ const UsedNonWorkingACUnits = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/d027GQs7/Sell-Your-Non-Working-AC-11.jpg"
               alt="Non Working AC"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

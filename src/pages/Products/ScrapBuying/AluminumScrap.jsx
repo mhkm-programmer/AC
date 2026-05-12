@@ -5,12 +5,13 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const aluminumGallery = [
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/v4DbbxHx/Aluminum-Scrap-Buying-1.jpg",
+  "https://i.ibb.co/BVbSzNPk/Aluminum-Scrap-Buying-1.webp",
+  "https://i.ibb.co/rGwQytWz/Aluminum-Scrap-Buying-2.jpg",
+  "https://i.ibb.co/zHVGk49F/Aluminum-Scrap-Buying-3.jpg",
+  "https://i.ibb.co/r2X3GMH5/Aluminum-Scrap-Buying-1.avif",
+  "https://i.ibb.co/qM4YskBc/Aluminum-Scrap-Buying-4.jpg",
+  "https://i.ibb.co/LDF2tDmB/Aluminum-Scrap-Buying-1.png",
 ];
 
 const AluminumScrap = () => {
@@ -22,7 +23,7 @@ const AluminumScrap = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/x8HhYLYW/Aluminum-Scrap-Buying-2.png"
         title="Aluminum Scrap Buying"
         subTitle="Sell Your Aluminum Scrap for Instant Cash"
       />
@@ -75,7 +76,7 @@ const AluminumScrap = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/Dg80wsWC/Aluminum-Scrap-Buying-2.avif"
               alt="Aluminum Scrap"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />

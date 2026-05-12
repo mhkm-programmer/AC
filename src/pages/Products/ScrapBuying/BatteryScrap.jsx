@@ -5,12 +5,14 @@ import PageTitle from "../../reusable/PageTitle";
 import ParallaxSection from "../../reusable/Parallax";
 
 const batteryGallery = [
-  "https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79",
-  "https://images.unsplash.com/photo-1621905251918-48416bd8575a",
-  "https://images.unsplash.com/photo-1581093458791-9f3c3900df6b",
-  "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
-  "https://images.unsplash.com/photo-1598300053653-3c10b3f2a0c3",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+  "https://i.ibb.co/vxDL7cJ3/Battery-Scrap-Buying-1.avif",
+  "https://i.ibb.co/v6k7MSC0/Battery-Scrap-Buying-1.jpg",
+  "https://i.ibb.co/cX1rxSNz/Battery-Scrap-Buying-1.webp",
+  "https://i.ibb.co/sdNqrgSN/Battery-Scrap-Buying-2.jpg",
+  "https://i.ibb.co/ynqhhcTx/Battery-Scrap-Buying-3.jpg",
+  "https://i.ibb.co/S4p3NYn7/Battery-Scrap-Buying-4.jpg",
+"https://i.ibb.co/Qvr7HBVR/Battery-Scrap-Buying-1.jpg",
+"https://i.ibb.co/LDp7p3HX/Battery-Scrap-Buying-2.avif",
 ];
 
 const BatteryScrap = () => {
@@ -22,7 +24,7 @@ const BatteryScrap = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://images.unsplash.com/photo-1621905251189-08b45d6a269e"
+        imagePath="https://i.ibb.co/v6MqHzd0/Battery-Scrap-Buying-3.avif"
         title="Battery Scrap Buying"
         subTitle="Sell Your Old Batteries for Instant Cash"
       />
@@ -75,7 +77,7 @@ const BatteryScrap = () => {
 
           <div>
             <img
-              src="https://images.unsplash.com/photo-1600566752227-8f3f2fba4c79"
+              src="https://i.ibb.co/fVzcDL3s/Battery-Scrap-Buying-2.webp"
               alt="Battery Scrap"
               className="rounded-xl shadow-lg w-full h-full object-cover"
             />
