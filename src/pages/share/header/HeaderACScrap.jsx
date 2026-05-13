@@ -43,7 +43,7 @@ const HeaderACScrap = () => {
   },
 
   // { label: "SERVICES", to: "/services" }, // optional but recommended
-  { label: "GALLERY", to: "/gallery" },
+  // { label: "GALLERY", to: "/gallery" },
   { label: "ABOUT US", to: "/about" },
   { label: "CONTACT US", to: "/contact" },
 ];

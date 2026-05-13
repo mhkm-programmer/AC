@@ -12,7 +12,7 @@ const AboutMePage = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://8upload.com/image/67a7f51fa667f/About_Us-min.jpg"
+        imagePath="https://i.ibb.co/LDvYbppN/professional-air-conditioner-installation-and-maintenance-by-technician-in-uniform-photo.jpg"
         title="About Contact Trading Co."
         subTitle="Professional AC Installation, Repair & Scrap Buying Services in Doha, Qatar"
       />

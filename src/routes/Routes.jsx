@@ -141,10 +141,10 @@ const router = createBrowserRouter([
       },
 
       /* OTHER PAGES */
-      {
-        path: "/gallery",
-        element: <Gallery />,
-      },
+      // {
+      //   path: "/gallery",
+      //   element: <Gallery />,
+      // },
       {
         path: "/blog",
         element: <BlogPage />,

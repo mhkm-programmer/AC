@@ -15,10 +15,10 @@ import { motion } from "framer-motion";
 
 const AboutMe = () => {
   const companyImages = [
-    "https://8upload.com/image/67a7f2e935ad6/Projects_1.jpg",
-    "https://8upload.com/image/67a7f2e90b2d7/Project_2.jpg",
-    "https://8upload.com/image/67a7f2e8d7637/Projects_3.jpg",
-    "https://8upload.com/image/67a7f2e8b0782/Projects_4.jpg",
+   "https://i.ibb.co/fzBDxxWJ/ac-installation-hero-quiet-corners-mechanical-services-llc-640w.webp",
+   "https://i.ibb.co/JRRYr0rV/hero-ac-install-r0d-Nu-HEs.jpg",
+   "https://i.ibb.co/d0C8QwBP/hero-ac-repair-Bl1-ZE5-SR.jpg",
+   "https://i.ibb.co/67VmJvGr/male-technician-cleaning-air-conditioner-indoors-repairman-washing-dirty-compartments-air-conditione.jpg",
   ];
 
   return (
