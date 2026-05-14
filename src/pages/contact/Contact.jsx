@@ -74,7 +74,7 @@ const Contact = () => {
               rel="noopener noreferrer"
             >
               <img
-                src="https://8upload.com/image/67ac615fba98c/WhatsApp_Image_2025-02-09_at_22.11.33_d335a3e9.jpg"
+                src="https://i.ibb.co/bggrjjmW/AC-Scrap-cleanup.png"
                 alt="Shop Interior"
                 className="w-full h-full object-contain rounded-lg"
               />

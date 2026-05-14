@@ -11,7 +11,7 @@ const ContactPage = () => {
 
       {/* Hero Section */}
       <ParallaxSection
-        imagePath="https://8upload.com/image/67a7ffa390ec8/Contact-min.jpg"
+        imagePath="https://i.ibb.co/XkCR7pv1/Pngtree-architecture-of-doha-outdoors-city-11906274.jpg"
         title="Contact Trading Co."
         subTitle="Professional AC Services & Scrap Buying in Doha, Qatar"
       />
